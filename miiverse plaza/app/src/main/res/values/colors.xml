@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="plaza_background">#E8F6DB</color>
+    <color name="plaza_card">#FFFDF5</color>
+    <color name="plaza_green">#3A9D5D</color>
+    <color name="plaza_ink">#1B3427</color>
+    <color name="plaza_muted">#5D796A</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
